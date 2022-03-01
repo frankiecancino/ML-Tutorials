@@ -8,4 +8,5 @@ If you are new to machine learning, I recommend going through the Jupyter Notebo
 2. [Linear Regression](https://github.com/frankiecancino/ML_Tutorials/blob/master/linear_regression.ipynb)
 3. [Logistic Regression](https://github.com/frankiecancino/ML_Tutorials/blob/master/logistic_regression.ipynb)
 4. [Evaluation Metrics](https://github.com/frankiecancino/ML_Tutorials/blob/master/evaluation_metrics.ipynb)
-5. [Gradient Descent](https://github.com/frankiecancino/ML_Tutorials/blob/master/gradient_descent.ipynb)
+5. [ARIMA](https://github.com/frankiecancino/ML-Tutorials/blob/master/arima.ipynb)
+6. [Gradient Descent](https://github.com/frankiecancino/ML_Tutorials/blob/master/gradient_descent.ipynb)

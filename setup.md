@@ -25,4 +25,4 @@ In your terminal
 Now that we have Python installed and a virtual envrionment created, we can install the dependencies we need to make all of our code work. With your virtual environment activated, in your terminal run: `pip install -r requirements.txt`
 
 ## Open a Jupyter Notebook
-You are ready to get started! All that's left is to open one of the notebooks in Jupyter Lab to run the code for yourself. If you haven't explored machine learning topics before, I suggest getting started with the introductory notebook. To open the notebook and run the code, run this command in your terminal (using your virtual environment) in the ML-Tutorials directory: `jupyter lab Intro_to_ML.ipynb`
+You are ready to get started! All that's left is to open one of the notebooks in Jupyter Lab to run the code for yourself. If you haven't explored machine learning topics before, I suggest getting started with the [introductory notebook](https://github.com/frankiecancino/ML_Tutorials/blob/master/Intro_to_ML.ipynb). To open the notebook and run the code, run this command in your terminal (using your virtual environment) in the ML-Tutorials directory: `jupyter lab Intro_to_ML.ipynb`

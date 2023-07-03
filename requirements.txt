@@ -1,5 +1,6 @@
 jupyterlab
 matplotlib
+nltk
 numpy
 pandas
 pmdarima

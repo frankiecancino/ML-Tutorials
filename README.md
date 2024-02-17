@@ -15,4 +15,4 @@ If you are new to machine learning, I recommend going through the Jupyter Notebo
 7. [Generalized Linear Models](https://github.com/frankiecancino/ML-Tutorials/blob/master/generalized_linear_models.ipynb)
 8. [Gradient Descent](https://github.com/frankiecancino/ML_Tutorials/blob/master/gradient_descent.ipynb)
 9. [N-Grams](https://github.com/frankiecancino/ML_Tutorials/blob/master/n_grams.ipynb)
-10. [Neural Attention](https://github.com/frankiecancino/ML-Tutorials/blob/master/attention.ipynb)
+10. [Neural Attention](https://github.com/frankiecancino/ML-Tutorials/blob/master/neural_attention.ipynb)
